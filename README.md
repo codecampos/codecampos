@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Hi, my name is Miguel. i am studenty at IFSP on course computing of 3º year. I'm currently looking for an internship in the technology area to apply and develop projects.<br><br>-🕹I like to play games.<br>-📖 I like to read too<br>-🏋🏽‍♂️In my free time I go to gym</p>
+<p align="left">Hi, my name is Miguel. I am a student at IFSP in the computing course, currently in my 3rd year. I'm looking for an internship in the technology field to apply my skills and develop projects..<br><br>-🕹I like to play games.<br>-📖  I also like to read.<br>-🏋🏽‍♂️In my free time, I go to gym</p>
 
 ###
 
