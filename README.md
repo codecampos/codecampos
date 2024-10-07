@@ -1,19 +1,28 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Miguel+Campos;I'm+18+years+old;I+am+from+São+Paulo,+SP;I+study+at+IFSP;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello+Word!;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 
 ###
 
-<h1 align="center">👩‍💻  About Me</h1>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, i'm Miguel
+###
+
+<div>
+  <img align="right" width="15%" src="https://i.pinimg.com/736x/87/17/86/871786dc3761b9eb933cd71505d00162.jpg">
+</div>
+
+<p align="left">
+  Hi, my name is Miguel. I am a student at IFSP in the Computing course, currently in my 3rd year. I'm looking for an internship in the technology field to apply my skills and develop projects.<br><br>
+  -🕹I like to play games.<br>
+  -📖 I also enjoy reading.<br>
+  -🏋🏽‍♂️In my free time, I go to the gym.
+
+
 
 ###
 
-<p align="left">Hi, my name is Miguel. I am a student at IFSP in the computing course, currently in my 3rd year. I'm looking for an internship in the technology field to apply my skills and develop projects..<br><br>-🕹I like to play games.<br>-📖  I also like to read.<br>-🏋🏽‍♂️In my free time, I go to gym</p>
-
-###
-
-<h1 align="center">🛠 Language and Tools</h1>
+<h1 align="center">🛠🇱​​🇦​​🇳​​🇬​​🇺​​🇦​​🇬​​🇪​ ​🇦​​🇳​​🇩​ ​🇹​​🇴​​🇴​​🇱​​🇸​:</h1>
 
 ###
 
@@ -35,7 +44,7 @@
 
 ###
 
-<h1 align="center">🔥 My Stats :</h1>
+<h1 align="center">🔥​🇲​​🇾​ ​🇸​​🇹​​🇦​​🇹​​🇸​:</h1>
 
 ###
 
@@ -44,11 +53,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codecampos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+
 ###
 
 <br clear="both">
 
-<h1 align="center"> 📱Speak with me:</h1>
+<h1 align="center"> 📱​🇨​​🇴​​🇳​​🇹​​🇦​​🇨​​🇹​ ​🇲​​🇪​:</h1>
 
 ###
 
