@@ -44,7 +44,7 @@
 
 ###
 
-<h1 align="center">🔥​🇲​​🇾​ ​🇸​​🇹​​🇦​​🇹​​🇸​:</h1>
+<h1 align="center">🔥​🇲​​🇾​ ​🇸​​🇹​​🇦​​🇹​​🇸🔥</h1>
 
 ###
 
@@ -58,7 +58,13 @@
 
 <br clear="both">
 
-<h1 align="center"> 📱​🇨​​🇴​​🇳​​🇹​​🇦​​🇨​​🇹​ ​🇲​​🇪​:</h1>
+<h1 align="center">📈🇨​​🇴​​🇳​​🇹​​🇷​​🇮​​🇧​​🇺​​🇹​​🇮​​🇴​​🇳​ ​🇬​​🇷​​🇦​​🇵​​🇭📈​</h1>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codecampos&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<h1 align="center"> 📱​🇨​​🇴​​🇳​​🇹​​🇦​​🇨​​🇹​ ​🇲​​🇪📱</h1>
+
 
 ###
 
@@ -66,14 +72,18 @@
   <a href="https://www.linkedin.com/in/miguel-santos-campos/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:santoscamposmiguel7@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
 </div>
+
 
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=codecampos.codecampos&left_color=lightslategray&right_color=violet"  />
 </div>
+
 
 
 
