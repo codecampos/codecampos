@@ -8,9 +8,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, i'm Miguel
 ###
 
-<div>
-  <img align="right" width="15%" src="https://i.pinimg.com/736x/87/17/86/871786dc3761b9eb933cd71505d00162.jpg">
-</div>
+
 
 <p align="left">
   Hi, my name is Miguel. I am a student at IFSP in the Computing course, currently in my 3rd year. I'm looking for an internship in the technology field to apply my skills and develop projects.<br><br>
