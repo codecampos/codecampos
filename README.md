@@ -11,7 +11,7 @@
 
 
 <p align="left">
-  Hi, my name is Miguel. I am a student at IFSP in the Computing course, currently in my 3rd year. I'm looking for an internship in the technology field to apply my skills and develop projects.<br><br>
+  Hi, my name is Miguel. I'm looking for an internship in the technology field to apply my skills and develop projects.<br><br>
   -🕹I like to play games.<br>
   -📖 I also enjoy reading.<br>
   -🏋🏽‍♂️In my free time, I go to the gym.
